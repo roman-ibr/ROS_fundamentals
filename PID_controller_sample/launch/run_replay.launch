@@ -1,0 +1,8 @@
+  <!-- This launch file is used to verify that the plot obtained after running 
+  run_replay.launch matches the one obtained after running run_mission.launch. -->
+
+<launch>
+  <node name="pos_plot" pkg="rqt_plot" type="rqt_plot" args="/distance /cmd_vel/linear/x" />
+  <!-- You should change the time stamp so that the launch file can find the bagfile you just created-->
+  <node name="record" pkg="rosbag" type="play" args=" $(find assignment_1)/bags/pid_2021-02-16-02-19-43.bag"/>
+</launch>

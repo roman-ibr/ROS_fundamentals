@@ -1,0 +1,8 @@
+  <!-- This launch file is used to open rqt_plot, record the bags, 
+  and start the main controller script. -->
+
+<launch>
+    <node name="pos_plot" pkg="rqt_plot" type="rqt_plot" args="/distance /cmd_vel/linear/x" />
+    <node name="record" pkg="rosbag" type="record" args="-o $(find assignment_1)/bags/pid /cmd_vel /distance"/>
+    <node name="controller" pkg="assignment_1" type="controller.py" output="screen" />
+</launch>
