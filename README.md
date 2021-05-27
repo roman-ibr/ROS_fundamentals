@@ -10,8 +10,8 @@ The repository contains basic tools and knowledge to create any basic ROS relate
 
 
 
- _Husky_             |   BB8
+ __Husky__             |   __BB8__
 :-------------------------:|:-------------------------:
 ![](https://drive.google.com/uc?export=view&id=1KAR9uLcve2wxevMfv531dsoVSB6YD21U)  |  ![](https://drive.google.com/uc?export=view&id=1d7HkH70BLgri-2KHplJe9obEkYuqOnFp)|
- WAM             |   Sphero
+ __WAM__             |   __Sphero__
 ![](https://drive.google.com/uc?export=view&id=1a8cN2BHxHZne_RTZE-b4zr4zoTeQuhcH)  |  ![](https://drive.google.com/uc?export=view&id=11LdRd8yGUYBdr4rGKcRB4yNka50hIsqw)|
