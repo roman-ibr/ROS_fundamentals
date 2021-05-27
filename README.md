@@ -10,4 +10,5 @@ The repository contains basic tools and knowledge to create any basic ROS relate
 ## TurtleBot 
 
 
-![Image of Yaktocat](https://drive.google.com/uc?export=view&id=1evYqonaB1pXxk_miODLpTOrkH6h2FJTf)
+![Image of Yaktocat](https://drive.google.com/uc?export=view&id=1KAR9uLcve2wxevMfv531dsoVSB6YD21U)
+## Husky 
