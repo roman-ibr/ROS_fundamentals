@@ -15,6 +15,6 @@ The repository contains basic tools and knowledge to create any basic ROS relate
 ## BB8
 ![Image of Yaktocat](https://drive.google.com/uc?export=view&id=1KAR9uLcve2wxevMfv531dsoVSB6YD21U)
 
-Solarized dark             |  Solarized Ocean
+## TurtleBot             |  ## Husky
 :-------------------------:|:-------------------------:
 ![](https://drive.google.com/uc?export=view&id=1WkIG7bz7hdOl1POaJ8P30OExIrhvJW-x)  |  ![](https://drive.google.com/uc?export=view&id=1KAR9uLcve2wxevMfv531dsoVSB6YD21U)
