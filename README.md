@@ -9,14 +9,9 @@ The repository contains basic tools and knowledge to create any basic ROS relate
 ![Image of Yaktocat](https://drive.google.com/uc?export=view&id=1WkIG7bz7hdOl1POaJ8P30OExIrhvJW-x)
 
 
-## Husky 
-![Image of Yaktocat](https://drive.google.com/uc?export=view&id=1KAR9uLcve2wxevMfv531dsoVSB6YD21U)
 
-## BB8
-![Image of Yaktocat](https://drive.google.com/uc?export=view&id=1KAR9uLcve2wxevMfv531dsoVSB6YD21U)
-
- TurtleBot             |   Husky
+ Husky             |   BB8
 :-------------------------:|:-------------------------:
-![](https://drive.google.com/uc?export=view&id=1WkIG7bz7hdOl1POaJ8P30OExIrhvJW-x)  |  ![](https://drive.google.com/uc?export=view&id=1KAR9uLcve2wxevMfv531dsoVSB6YD21U)
- TurtleBot             |   Husky
+![](https://drive.google.com/uc?export=view&id=1KAR9uLcve2wxevMfv531dsoVSB6YD21U)  |  ![](https://drive.google.com/uc?export=view&id=1O5XrM6BtEO2Pk6mXCTk1Gh82I-2oQNgO)
+ WAM             |   Sphero
 ![](https://drive.google.com/uc?export=view&id=1WkIG7bz7hdOl1POaJ8P30OExIrhvJW-x)  |  ![](https://drive.google.com/uc?export=view&id=1KAR9uLcve2wxevMfv531dsoVSB6YD21U)
