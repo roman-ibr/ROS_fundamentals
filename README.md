@@ -10,4 +10,7 @@ If you want to embed images, this is how you do it:
 ![Image of Yaktocat](https://drive.google.com/uc?export=view&id=1WkIG7bz7hdOl1POaJ8P30OExIrhvJW-x)
 
 ![alt text](http://url/to/img.png)
+
+**This text will be bold**
+__This will also be bold__
 fr
